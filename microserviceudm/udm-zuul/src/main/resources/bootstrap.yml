@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      name: udm-zuul
+      profile: dev
+      label: master
+      uri: http://udm.config.com:3344      #SpringCloudConfig获取的服务地址

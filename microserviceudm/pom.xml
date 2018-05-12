@@ -94,5 +94,6 @@
 		<module>udm-zuul</module>
 		<module>udm-user-provider</module>
 		<module>udm-user-consumer</module>
+		<module>udm-hystrix-dashboard</module>
 	</modules>
 </project>

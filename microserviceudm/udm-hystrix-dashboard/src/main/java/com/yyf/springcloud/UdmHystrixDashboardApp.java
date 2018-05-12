@@ -2,15 +2,15 @@ package com.yyf.springcloud;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.cloud.netflix.zuul.EnableZuulProxy;
+import org.springframework.cloud.netflix.hystrix.dashboard.EnableHystrixDashboard;
 
 @SpringBootApplication
-@EnableZuulProxy
-public class UdmZuulApp {
+@EnableHystrixDashboard
+public class UdmHystrixDashboardApp {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		SpringApplication.run(UdmZuulApp.class, args);
+		SpringApplication.run(UdmHystrixDashboardApp.class, args);
 	}
 
 }
