@@ -95,5 +95,6 @@
 		<module>udm-user-provider</module>
 		<module>udm-user-consumer</module>
 		<module>udm-hystrix-dashboard</module>
+		<module>udm-session-redis</module>
 	</modules>
 </project>
