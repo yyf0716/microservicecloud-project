@@ -97,5 +97,6 @@
 		<module>udm-hystrix-dashboard</module>
 		<module>udm-session-redis</module>
 		<module>spring-boot-shiro-redis</module>
+		<module>spring-boot-shiro</module>
 	</modules>
 </project>
