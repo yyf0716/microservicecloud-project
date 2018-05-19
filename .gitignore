@@ -1,4 +1,2 @@
 ﻿*.class
 **/target/**
-*.classpath
-*.project
