@@ -96,5 +96,6 @@
 		<module>udm-user-consumer</module>
 		<module>udm-hystrix-dashboard</module>
 		<module>udm-session-redis</module>
+		<module>spring-boot-shiro-redis</module>
 	</modules>
 </project>
